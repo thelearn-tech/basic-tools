@@ -8,6 +8,8 @@ echo AKA Pritam Behera
 echo
 echo My YouTube It creates 19
 echo
+echo https://m.youtube.com/channel/UCh2gmleSc9jwtQwqWZZsLdw
+echo
 echo https://github.com/thelearn-tech/basic-tools
 sleep 4
 echo
@@ -30,12 +32,5 @@ printf '\033[36m';echo script by THE_EAGLE
 echo
 echo https://github.com/thelearn-tech/basic-tools
 echo
-echo www.youtube.com/it creates 19
-echo
-echo https://m.youtube.com/channel/UCh2gmleSc9jwtQwqWZZsLdw
-
-
-
 sleep 4
-
 rm -rf basic-tools
