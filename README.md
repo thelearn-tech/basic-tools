@@ -8,9 +8,11 @@ git clone https://github.com/thelearn-tech/basic-tools
 
 cd basic-tools
 
-chmod +X basic-tools
+chmod +X install.sh
 
-./basic-tools
+./install.sh
+
+After installation basic-tools folder will delete.
 
 My YouTube it creates 19
 Channel link  https://m.youtube.com/channel/UCh2gmleSc9jwtQwqWZZsLdw
