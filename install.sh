@@ -42,9 +42,12 @@ echo
 
 echo https://github.com/thelearn-tech/basic-tools
 
-echo
 
 echo www.youtube.com/it creates 19
+echo
+echo https://m.youtube.com/channel/UCh2gmleSc9jwtQwqWZZsLdw
+
+
 
 sleep 4
 
