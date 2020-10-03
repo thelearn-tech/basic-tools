@@ -18,7 +18,7 @@ sleep 2
 echo
 pkg install nano python figlet cowsay apache2 w3m wget
 echo
-printf '\033[36m';echo installition complet
+printf '\033[36m';echo installition complete
 echo
 echo ngrok will install now
 sleep 2
