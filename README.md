@@ -6,6 +6,8 @@ Also most off the other small things as dependencies
 
 Includes IP-Tracer
 
+PKG install git 
+
 git clone https://github.com/thelearn-tech/basic-tools
 
 cd basic-tools
