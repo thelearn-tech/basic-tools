@@ -16,3 +16,6 @@ After installation basic-tools folder will delete.
 
 My YouTube it creates 19
 Channel link  https://m.youtube.com/channel/UCh2gmleSc9jwtQwqWZZsLdw
+
+# warnings
+If you copy don't forget to give credit.
