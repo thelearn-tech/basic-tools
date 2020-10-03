@@ -17,5 +17,10 @@ After installation basic-tools folder will delete.
 My YouTube it creates 19
 Channel link  https://m.youtube.com/channel/UCh2gmleSc9jwtQwqWZZsLdw
 
+# more information
+ for more information on IP-Tracer visit original page
+
+IP-Tracer -> https://github.com/rajkumardusad/IP-Tracer.git
+
 # warnings
 If you copy don't forget to give credit.
