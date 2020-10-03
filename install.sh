@@ -23,6 +23,7 @@ echo
 echo ngrok will install now
 sleep 2
 echo
+cd
 wget https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-arm.zip
 unzip ngrok-stable-linux-arm.zip
 rm -rf ngrok-stable-linux-arm.zip
@@ -44,5 +45,6 @@ echo
 echo https://github.com/thelearn-tech/basic-tools
 echo
 sleep 4
+cd
 rm -rf basic-tools
 
