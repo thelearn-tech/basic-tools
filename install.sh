@@ -13,10 +13,10 @@ echo
 echo https://github.com/thelearn-tech/basic-tools
 sleep 4
 echo
-echo following script will install nano,python,figlet,cowsay,apache2,w3m,wget
+echo following script will install nano,python,figlet,cowsay,apache2,w3m,wget,nmap, openssh
 sleep 2
 echo
-pkg install nano python figlet cowsay apache2 w3m wget
+pkg install nano python figlet cowsay apache2 w3m wget nmap openssh
 echo
 printf '\033[36m';echo installition complete
 echo
