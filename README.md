@@ -25,4 +25,4 @@ Channel link  https://m.youtube.com/channel/UCh2gmleSc9jwtQwqWZZsLdw
 IP-Tracer -> https://github.com/rajkumardusad/IP-Tracer.git
 
 # warnings
-If you copy don't forget to give credit.
+If you copy don't forget to give me credit.
