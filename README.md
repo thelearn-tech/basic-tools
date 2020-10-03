@@ -12,7 +12,7 @@ git clone https://github.com/thelearn-tech/basic-tools
 
 cd basic-tools
 
-chmod +X install.sh
+chmod +x install.sh
 
 ./install.sh
 
