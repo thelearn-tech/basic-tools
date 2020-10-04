@@ -6,8 +6,6 @@ printf '\033[36m';echo script by THE_EAGLE
 echo
 echo AKA Pritam Behera
 echo
-echo www.youtube.com/It creates 19
-echo
 echo https://github.com/thelearn-tech/basic-tools
 sleep 4
 echo
@@ -16,7 +14,7 @@ echo cowsay,apache2,w3m,wget,nmap, openssh , speedtest-cli
 echo IP-Tracer
 sleep 2
 echo
-pkg install nano python figlet cowsay apache2 w3m wget nmap openssh
+pkg install nano python figlet cowsay apache2 w3m wget nmap openssh grep curl
 echo
 printf '\033[36m';echo installition complete
 echo
