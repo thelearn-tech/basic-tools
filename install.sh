@@ -6,14 +6,14 @@ printf '\033[36m';echo script by THE_EAGLE
 echo
 echo AKA Pritam Behera
 echo
-echo My YouTube It creates 19
-echo
-echo https://m.youtube.com/channel/UCh2gmleSc9jwtQwqWZZsLdw
+echo www.youtube.com/It creates 19
 echo
 echo https://github.com/thelearn-tech/basic-tools
 sleep 4
 echo
-echo following script will install nano,python,figlet,cowsay,apache2,w3m,wget,nmap, openssh
+echo following script will install nano,python,figlet,
+echo cowsay,apache2,w3m,wget,nmap, openssh , speedtest-cli
+echo IP-Tracer
 sleep 2
 echo
 pkg install nano python figlet cowsay apache2 w3m wget nmap openssh
@@ -40,11 +40,14 @@ chmod +x install
 echo
 echo IP-Tracer installed
 echo
-printf '\033[36m';echo script by THE_EAGLE
-echo
-echo https://github.com/thelearn-tech/basic-tools
-echo
 sleep 4
 cd
+echo installing speed-cli
+curl -Lo speedtest-cli https://raw.githubusercontent.com/sivel/speedtest-cli/master/speedtest.py
+chmod +x speedtest-cli
+echo 
+echo usage ./speedtest-cli or speedtest-cli
+cd
 rm -rf basic-tools
+sleep 3
 
