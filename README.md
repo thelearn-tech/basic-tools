@@ -1,12 +1,14 @@
 # basic-tools
-By running this script you can install every basic tools you will need in the beginning of termux as a beginner and it is very easy to install just follow the steps below
+By running this script you can install every basic tools you will need in the beginning of termux as a beginner and it is very easy
 
  This will install nano python figlet cowsay apache2 w3m wget and ngrok
 Also most off the other small things as dependencies
 
-Includes IP-Tracer
+Includes IP-Tracer and speedtest-cli
 
-PKG install git 
+ to install just follow the steps below
+
+pkg install git 
 
 git clone https://github.com/thelearn-tech/basic-tools
 
