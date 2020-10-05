@@ -41,7 +41,7 @@ echo IP-Tracer installed
 echo
 sleep 4
 cd
-echo installing speed-cli
+echo installing speedtest-cli
 curl -Lo speedtest-cli https://raw.githubusercontent.com/sivel/speedtest-cli/master/speedtest.py
 chmod +x speedtest-cli
 echo 
