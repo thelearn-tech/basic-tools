@@ -10,13 +10,14 @@ echo https://github.com/thelearn-tech/basic-tools
 sleep 4
 echo
 echo following script will install nano,python,figlet,
-echo cowsay,apache2,w3m,wget,nmap, openssh , speedtest-cli
-echo IP-Tracer
+echo cowsay,apache2,w3m,wget,nmap, openssh , speedtest-cli 
+echo IP-Tracer,ruby ,hydra , python 2
 sleep 2
 echo
-pkg install nano python figlet cowsay apache2 w3m wget nmap openssh grep curl
+pkg install nano python figlet cowsay apache2 w3m wget nmap openssh grep curl ruby hydra python2
 echo
-printf '\033[36m';echo installition complete
+printf '\033[36m';echo nano python figlet cowsay apache2 w3m wget nmap 
+printf '\033[36m';echo openssh grep curl ruby hydra python2 installation complete
 echo
 echo ngrok will install now
 sleep 2
