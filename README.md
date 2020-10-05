@@ -1,12 +1,12 @@
 # basic-tools
 By running this script you can install every basic tools you will need in the beginning of termux as a beginner and it is very easy
 
- This will install nano python figlet cowsay apache2 w3m wget and ngrok
+ This will install nano python figlet cowsay apache2 w3m wget nmap openssh grep curl ruby hydra python2
 Also most off the other small things as dependencies
 
-Includes IP-Tracer and speedtest-cli
+Includes IP-Tracer and speedtest-cli and ngrok
 
- to install just follow the steps below
+# Installation
 
 pkg install git 
 
@@ -20,13 +20,15 @@ chmod +x install.sh
 
 After installation basic-tools folder will delete.
 
-My YouTube it creates 19
+My YouTube -> it creates 19
 Channel link  https://m.youtube.com/channel/UCh2gmleSc9jwtQwqWZZsLdw
 
 # more information
- for more information on IP-Tracer visit original page
+ for more information on IP-Tracer and speedtest-cli visit original page
 
 IP-Tracer -> https://github.com/rajkumardusad/IP-Tracer.git
+
+Speedtest-cli -> https://github.com/sivel/speedtest-cli
 
 # warnings
 If you copy don't forget to give me credit.
