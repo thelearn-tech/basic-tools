@@ -32,5 +32,4 @@ Speedtest-cli -> https://github.com/sivel/speedtest-cli
 
 # if you copy don't forget to give me credit
 
-# warnings
-If you copy don't forget to give me credit.
+
