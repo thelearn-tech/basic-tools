@@ -8,20 +8,20 @@ Includes IP-Tracer and speedtest-cli and ngrok
 
 # Installation
 
-pkg install git 
+*pkg install git* 
 
-git clone https://github.com/thelearn-tech/basic-tools
+*git clone https://github.com/thelearn-tech/basic-tools*
 
-cd basic-tools
+*cd basic-tools*
 
-chmod +x install.sh
+*chmod +x install.sh*
 
-./install.sh
+*./install.sh*
 
 After installation basic-tools folder will delete.
 
 My YouTube -> it creates 19
-Channel link  https://m.youtube.com/channel/UCh2gmleSc9jwtQwqWZZsLdw
+Channel link  *https://m.youtube.com/channel/UCh2gmleSc9jwtQwqWZZsLdw*
 
 # more information
  for more information on IP-Tracer and speedtest-cli visit original page
