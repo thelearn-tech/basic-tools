@@ -3,7 +3,7 @@ By running this script you can install every basic tools you will need in the be
 
  This will install nano python figlet cowsay apache2 w3m wget nmap openssh grep curl ruby hydra python2
 Also most off the other small things as dependencies
-
+**npm**
 Includes IP-Tracer and speedtest-cli and ngrok
 
 # Installation
