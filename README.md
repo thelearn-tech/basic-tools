@@ -24,6 +24,9 @@ After installation basic-tools folder will delete.
 My YouTube -> it creates 19
 Channel link  *https://m.youtube.com/channel/UCh2gmleSc9jwtQwqWZZsLdw*
 
+# Update
+ dig and nslookup (Fri ,30 Oct)
+
 # more information
  for more information on IP-Tracer and speedtest-cli visit original page
 
