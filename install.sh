@@ -45,8 +45,10 @@ cd
 echo installing speedtest-cli
 curl -Lo speedtest-cli https://raw.githubusercontent.com/sivel/speedtest-cli/master/speedtest.py
 chmod +x speedtest-cli
+cp speedtest-cli speedtest
+mv speedtest /data/data/com.termux/files/usr/bin
 echo 
-echo usage ./speedtest-cli to start speed test
+echo type speedtest to start speed test
 cd
 rm -rf basic-tools
 sleep 3
