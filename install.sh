@@ -15,7 +15,8 @@ echo IP-Tracer,ruby ,hydra , python 2,npm
 sleep 2
 echo
 pkg install nano python figlet cowsay apache2 w3m 
-pkg install wget nmap openssh grep curl ruby hydra python2 nodejs
+pkg install wget
+pkg install nmap openssh grep curl ruby hydra python2 nodejs
 apt-get install dnsutils -y
 echo
 printf '\033[36m';echo nano python figlet cowsay apache2 w3m wget nmap 
