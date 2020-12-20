@@ -1,4 +1,10 @@
 # basic-tools
+
+![main](https://img.shields.io/badge/Maintained-Yes-green)
+
+![blanks](https://img.shields.io/badge/Code-Shell-green)
+
+
 By running this script you can install every basic tools you will need in the beginning of termux as a beginner and it is very easy
 
  This will install nano python figlet cowsay apache2 w3m wget nmap openssh grep curl ruby hydra python2 **npm**
