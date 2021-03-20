@@ -28,11 +28,10 @@ Includes IP-Tracer and speedtest-cli and ngrok
 
 After installation basic-tools folder will delete.
 
-My YouTube -> it creates 19
-Channel link  *https://m.youtube.com/channel/UCh2gmleSc9jwtQwqWZZsLdw*
 
 # Update
- dig and nslookup (Fri ,30 Oct,2020)
+ dig and nslookup (Fri ,30 Oct 2020)
+ Better interaction (Sat ,20 March 2021)
 
 # more information
  for more information on IP-Tracer and speedtest-cli visit original page
