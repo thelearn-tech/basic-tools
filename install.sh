@@ -81,13 +81,15 @@ remove_basictools() {
 # banner
 clear
 printf '\033[32m';echo "   ____________         "
-printf '\033[32m';echo "  < basic tool  >       " 
+printf '\033[32m';echo "  < basic tool >       " 
 printf '\033[32m';echo "   ------------         "
 printf '\033[32m';echo "        \   ,__,         \033[33m  v1.1"
 printf '\033[32m';echo "         \  (oo)____    "
 printf '\033[32m';echo "            (__)    )\    \033[36m by thelearn-tech      "
 printf '\033[32m';echo "               ||--|| *  \033[31m  ©2019 - 2021 "
-sleep 4
+echo ""
+printf '\033[34m';echo "   https://github.com/thelearn-tech"
+sleep 3
 echo ""
 echo ""
 printf '\033[32m';echo " Following packages will install"
